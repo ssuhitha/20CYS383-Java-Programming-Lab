@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.amrita.jpl.cys21033.GroupProject","c":"proto","l":"addCandidateName(String)","u":"addCandidateName(java.lang.String)"},{"p":"com.amrita.jpl.cys21033.GroupProject","c":"proto","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.amrita.jpl.cys21033.GroupProject","c":"proto","l":"proto()","u":"%3Cinit%3E()"}];updateSearchResults();
